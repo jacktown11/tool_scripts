@@ -1,0 +1,1 @@
+node D:/quickStart/scripts/record/app.js
